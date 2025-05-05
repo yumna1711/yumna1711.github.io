@@ -1,0 +1,25 @@
+---
+layout: post
+title: "SCSS dan SASS"
+---
+
+MD DAN YML
+
+MD adalah singkatan dari Markdown, yaitu format file teks yang digunakan untuk menulis dokumen dengan sintaks sederhana, tetapi bisa dikonversi ke HTML. Markdown sangat populer dalam dokumentasi proyek, README GitHub, blog, dan lainnya. sedangkan
+
+Fungsi:
+
+Membuat dokumentasi (seperti README.md di GitHub).
+Menulis artikel atau blog dengan format rapi tanpa HTML.
+Membuat catatan atau file presentasi dengan struktur heading, list, link, gambar, dll.
+Digunakan di platform seperti GitHub, GitLab, Jekyll, dan lainnya.
+sedangkan YML adalah ekstensi singkat dari YAML (YAML Ain’t Markup Language), yaitu format file konfigurasi yang digunakan untuk menyimpan data dalam bentuk yang mudah dibaca manusia.
+
+fungsi
+
+Menyimpan konfigurasi aplikasi, seperti pada Docker, GitHub Actions, dan CI/CD.
+Mengatur metadata di framework seperti Jekyll atau Hugo.
+Digunakan dalam DevOps dan Infrastruktur, seperti Ansible, Kubernetes, dan lainnya.
+Mendeklarasikan struktur data seperti array dan objek dalam format yang rapi dan terstruktur.
+
+![MD Dan YML](/assets/image/md yml.jpg)
