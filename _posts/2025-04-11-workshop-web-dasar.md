@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "wORKSHOP WEB DASAR"
+title: "WORKSHOP WEB DASAR"
 ---
 
 WORKSHOP WEB DASAR

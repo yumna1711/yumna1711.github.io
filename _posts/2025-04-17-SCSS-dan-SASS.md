@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SCSS dan SASS"
+title: "SCSS DAN SASS"
 ---
 
 SCSS dan SASS
