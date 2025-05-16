@@ -1,3 +1,10 @@
+title: Yumna
+email: yumnayumna1704@gmail.com
+description: > # this means to ignore newLines until "baseurl:"
+ A personal blog by Yumna, a student at Politeknik Negeri Lhokseumawe.
+ This blog is built using jekyll and hosted on Github Pages.
+ The Content is primarily In Indonesian, but some posts may be in English
+
 url: "https://yumna1711.github.io/"
 
 plugins:
